@@ -13,8 +13,8 @@ Anyone can download it and use it for anykind of purpose no copy right or any ot
 
 ## Run Project
 ```
-If the Direct App don't work then simply download the 
-Zip file in the files and 
+If the Direct App Code don't work then simply download the 
+Zip file named ( SqlLite-crud-app-code-anroid--android-studio-4.zip ) and 
 add it in your android studio and 
 then let the android studio install dependencies
 ```
